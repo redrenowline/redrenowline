@@ -9,10 +9,10 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
-![RedRenowLine's GitHub stats](https://github-readme-stats.vercel.app/api?username=redrenowline&show_icons=true&theme=radical)
+![RedRenowLine's GitHub stats](https://github-readme-stats.vercel.app/api?username=redrenowline&show_icons=true&theme=dark)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=redrenowline&layout=compact)](https://github.com/redrenowline/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=redrenowline&layout=compact&theme=dark)](https://github.com/redrenowline/github-readme-stats)
 
 
 <!-- ![](https://komarev.com/ghpvc/?username=redrenowline&color=green) -->
