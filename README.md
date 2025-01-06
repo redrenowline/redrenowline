@@ -3,7 +3,7 @@
 - How to reach me in Telegram: https://t.me/redgoldline
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![RedRenowLine's GitHub stats](https://github-readme-stats.vercel.app/api?username=redrenowline&show_icons=true&theme=radical)
 <!--
 **redrenowline/redrenowline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
