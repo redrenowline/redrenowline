@@ -1,7 +1,8 @@
 ## Hi there 👋, I'm RedRenowLine.
 - 🔭 I’m currently studing in Novosibirsk State Unitversity, 3-rd year
+- I'm C++/Java programmer
 - How to reach me in Telegram: https://t.me/redgoldline
-
+- That'a all for now
 
 
 
