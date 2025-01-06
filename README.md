@@ -1,9 +1,17 @@
 ## Hi there 👋, I'm RedRenowLine.
 - 🔭 I’m currently studing in Novosibirsk State Unitversity, 3-rd year
 - How to reach me in Telegram: https://t.me/redgoldline
+
+
+
+
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 ![RedRenowLine's GitHub stats](https://github-readme-stats.vercel.app/api?username=redrenowline&show_icons=true&theme=radical)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=redrenowline&layout=compact)](https://github.com/redrenowline/github-readme-stats)
 <!--
 **redrenowline/redrenowline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
