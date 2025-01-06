@@ -15,7 +15,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=redrenowline&layout=compact)](https://github.com/redrenowline/github-readme-stats)
 
 
-![](https://komarev.com/ghpvc/?username=redrenowline&color=green)
+<!-- ![](https://komarev.com/ghpvc/?username=redrenowline&color=green) -->
 
 
 <!--
