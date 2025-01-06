@@ -7,7 +7,6 @@
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=redrenowline)](https://git.io/streak-stats)
 
 ![RedRenowLine's GitHub stats](https://github-readme-stats.vercel.app/api?username=redrenowline&show_icons=true&theme=dark)
 
